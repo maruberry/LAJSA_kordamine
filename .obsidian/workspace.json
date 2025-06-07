@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "210-223.md",
+                "file": "1-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "210-223"
+              "title": "1-10"
             }
           }
         ]
@@ -170,13 +170,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f686362feefc4dfc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 585.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ce3c766dbccd5b8",
+  "active": "02e25872593afbfe",
   "lastOpenFiles": [
+    "Setup/git_env_password.sh",
+    "Setup",
     "1-10.md",
+    "conflict-files-obsidian-git.md",
     "210-223.md",
+    "How to make flashcards.md",
     "Pasted image 20250607152054.png",
     "21-30.md",
     "11-20.md",
-    "How to make flashcards.md",
     "Images",
     "Images/Pasted image 20250607150820.png",
     "Welcome.md"
