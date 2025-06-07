@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2063dd764a6dcf99",
+        "id": "476729006477cb85",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce3c766dbccd5b8",
+            "id": "87212f36676b5f40",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -187,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ce3c766dbccd5b8",
+  "active": "87212f36676b5f40",
   "lastOpenFiles": [
     "210-223.md",
     "How to make flashcards.md",
