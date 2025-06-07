@@ -11,14 +11,14 @@
             "id": "87212f36676b5f40",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Setup/git_env_password.sh",
-                "bFile": "Setup/git_env_password.sh",
-                "aRef": ""
+                "file": "Password.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: git_env_password.sh"
+              "icon": "lucide-file",
+              "title": "Password"
             }
           }
         ]
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffbb2949a00357bc",
+  "active": "87212f36676b5f40",
   "lastOpenFiles": [
+    "Password.md",
     "210-223.md",
     "How to make flashcards.md",
     "Pasted image 20250607152054.png",
