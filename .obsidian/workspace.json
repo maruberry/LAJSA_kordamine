@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Password.md",
+                "file": "Setup/Password.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,9 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87212f36676b5f40",
+  "active": "2b09f36594d80f63",
   "lastOpenFiles": [
-    "Password.md",
+    "Setup/Password.md",
     "210-223.md",
     "How to make flashcards.md",
     "Pasted image 20250607152054.png",
