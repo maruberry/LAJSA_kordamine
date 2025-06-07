@@ -190,10 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ce3c766dbccd5b8",
+  "active": "2b09f36594d80f63",
   "lastOpenFiles": [
-    "1-10.md",
+    "Setup/git_env_password.sh",
+    "Setup",
+    "git_env_password.sh.md",
+    "git_env_password.sh",
     "210-223.md",
+    "1-10.md",
     "Pasted image 20250607152054.png",
     "21-30.md",
     "11-20.md",
