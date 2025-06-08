@@ -1,6 +1,18 @@
-#flashcards/201-209
+#flashcards/200-209
 
-![[Pasted image 20250608175532.png]]
+200.1 Elektromagnetlaine levimine (joonis selgitustega) ja nende teke. 
+?
+Elektromagnetlaineid tekitavad kiirendusega liikuvad elektrilaengud. Nad levivad vaakumis konstantse kiirusega $c = 3 * 10^8 m/s$ ja on oma olemuselt ristlained (Teineteist vastastikku tekitavad elektriväli ja magnetväli on mõlemad risti laine levimise suunaga, aga ka omavahel)
+![[Pasted image 20250608193038.png]]
+;
+
+200.2 Murdumisnäitaja valem.
+?
+Murdumisnäitaja sõltub keskkonna elektrilistest ja magnetilistest omadustest
+$$n = \sqrt{\varepsilon\mu}$$
+$\varepsilon$ - Keskkonna dielektriline läbitavus
+$\mu$ - Keskkonna magnetiline läbitavus
+;
 
 201.1 Elektromagnetlainete skaala. 
 ?
