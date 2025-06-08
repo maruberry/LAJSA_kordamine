@@ -1,3 +1,5 @@
+#flashcards/173-183
+
 173 Faraday esimese katse kirjeldus. Joonis selgitustega.
 ?
 Katse aparatuur koosneb mähisega ühendatud galvanomeetrist (Teeb kindlaks elektrivoolu olemasolu) ja püsimagnetist. Kui püsimagnet ja mägis olid teineteise suhtes paigal, siis galvanomeeter voolu ei näidanud. Magneti liigutamisel mägise suhtes näitas galvanomeeter elektrivoolu olemasolu.
