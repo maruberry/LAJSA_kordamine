@@ -1,4 +1,66 @@
-#flashcards/189-199
+#flashcards/184-199
+
+184.1 Geomeetrilise optika esimene seadus. 
+?
+*Geomeetrilise optika esimene seadus*- Valguse sirgjoonelise levimise seadus. Homogeenses keskkonnas levib valgus sirgjooneliselt
+;
+
+184.2 Valguskiire kõrvalekaldumine gravitatsiooniväljas
+?
+Geomeetrilise optika esimese seaduse kõrvalkalle. Valguskiir muudab oma suunda gravitatsioonvälja mõjul näiteks suure massiga taevakehast möödudes. 
+![[Pasted image 20250608194221.png]]
+;
+
+185 Valguse peegeldumisseaduse sõnastus, valem, joonis selgitustega.
+?
+*Geomeetrilise optika teine seadus* - Valguse peegeldumisseadus. Valguse langemisnurk võrdub peegeldumisnurgaga, kusjuures langev kiir, peegeldunud kiir ja pinnanormaal asuvad ühel tasandil.
+$\alpha = \beta$ 
+ $\alpha$ - langemisnurk
+ $\beta$ - peegeldumisnurk
+
+![[Pasted image 20250608194613.png]]
+;
+
+186 Valguse murdumisseaduse sõnastus, valem, joonis selgitustega.
+?
+*Geomeetrilise optika kolmas seadus* - Valguse murdumisseadus. ühest keskkonnast teise levides muudab valgus nende keskkondade lahutuspinnal suunda. kusjuures langev kiir, murdunud kiir ja pinnanormaal asuvad ühel tasandil
+
+$n_1\sin\alpha = n_2\sin\gamma$
+ $\alpha$ - langemisnurk
+ $\gamma$ - Murdumisnurk
+$n_1$ - Esimese keskkonna murdumisnäitaja
+$n_2$ - Teise keskkonna murdumisnäitaja
+
+![[Pasted image 20250608194944.png]]
+;
+
+187.1 Murdumisnäitaja definitsioon.
+?
+*Murdumisnäitaja* - näitab kui palju on valguse kiirus selles keskkonnas väiksem valguse kiirusest vaakumis $$n = \frac{c}{v'}$$
+c - valguse kiirus vaakumis
+v - valguse kiirus keskkonnas
+;
+
+187.2 Optiliselt tiheda ja optiliselt hõreda keskkonna definitsioon
+?
+*Optiliselt tihe aine* - Aine milles valguse kiirus on väiksem kui teises ja sellega ka murdumisnätiaja on suurem
+
+*Optiliselt hõre aine* - Aine milles valguse kiirus on suurem kui teises ja sellega ka murdumisnätiaja on väiksem
+
+Tihe ja hõre on teineteisega võrreldes.
+;
+
+188 Valguse täielik peegeldumine. Toimumise tingimus, piirnurga valemi tuletamine.
+?
+*täielik peegeldumine* - Nähtus, mille korral optiliselt tihedamast keskkonnast hõredamasse keskkonda leviv valgus peegeldub lahutuspinnalt täielikult tagasi. 
+
+Minimaalset langemisnurka mille korral täielik peegeldumine toimub, nimetatakse täieliku peegeldumise *piirnurgaks*
+
+$$\alpha_{kr}=\arcsin\frac{n_2}{n_1}$$
+ehk st $\sin\gamma = 1 => \gamma = 90°$
+
+![[Pasted image 20250608195707.png]]
+;
 
 189 Fermat´ printsiibi sõnastus.
 ?
