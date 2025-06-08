@@ -67,7 +67,12 @@ kus $w$ ja $w_0$ tähistavad energiatiheduse pärast ja enne polarisaatori läbi
 
 208 Huygens-Fresneli printsiibi sõnastus. Joonis selgitustega.
 ?
+Iga ruumipunkt, milleni lainefront mingiks ajahetkeks on jõudnud, muutub ise elementaarsete keralainete allikaks.  Selliste keralainete mähispind moodustab uue, järgmisele ajahetkele vastava lainefrondi. 
 
+![[Pasted image 20250608183757.png|400]]
 ;
 
 209 Valguslainete superpositsiooni printsiip.
+?
+Kui mingis ruumipunktis kohtuvad erinevad valguslained, siis nende poolt tekitatavad elektriväljad liituvad kui vektorid. 
+;
